@@ -1,4 +1,6 @@
-{
+[
+  
+  {
 'urllens':'https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=c1d87135dc544e40a20683d90e6df079&metadata=01&sc_referrer=android',
 'iconlens':'https://app.snapchat.com/web/deeplink/snapcode?data=c1d87135dc544e40a20683d90e6df079&version=1&type=png',
 'namelens':'kurdsh'
@@ -8,3 +10,6 @@
 'iconlens':'https://app.snapchat.com/web/deeplink/snapcode?data=c1d87135dc544e40a20683d90e6df079&version=1&type=png33',
 'namelens':'kurdsh4'
 }
+
+ 
+ ]
